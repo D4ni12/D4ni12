@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D4ni12&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=D4ni12&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=D4ni12&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
