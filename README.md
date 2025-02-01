@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Portuguese student beginning his journey in the programming universe.<br>💻 Working on an ambicious project named Codorb.<br>🔎 Exploring the multiple languages and areas, not really sure about his favourite.<br>📖 Currently studying Go, JavaScript & Python
+✨ Portuguese student beginning his journey in the programming universe.<br>🔤 Passionate by languages and how they work.<br>🔎 Exploring the multiple languages and areas, not really sure about his favourite.<br>📖 Currently studying Go, JavaScript & Python
 
 
 # 💻 Tech Stack:
